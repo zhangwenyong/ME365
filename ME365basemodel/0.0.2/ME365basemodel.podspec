@@ -137,6 +137,6 @@ Pod::Spec.new do |s|
     s.dependency "YYKit", '~> 1.0.9'
     s.dependency  "AFNetworking", '~> 3.1.0'
     s.dependency  "MJExtension", '~> 3.0.13'
-
-    
+    s.dependency    "SDWebImage", '~> 4.0.0'
+    s.dependency  "Me365bscontroller"
 end
